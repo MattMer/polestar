@@ -1387,6 +1387,13 @@ L["The guide window hides in dungeons and battlegrounds. %s Change it in Options
 L["Closed %s"] = "已關閉 %s"
 L["Reopen"] = "重新開啟"
 L["Needs"] = "尚缺"
+-- L["You carry this quest; the update moved what is left of it before your place in the guide."] = ""
+-- L["Right-click to skip or abandon it."] = ""
+-- L["back in %s, %s"] = ""
+-- L["back in %s"] = ""
+-- L["Still to do: %s, %s"] = ""
+-- L["Still to do: %s"] = ""
+-- L["Still to do"] = ""
 
 -- UI/JourneyPanel.lua
 L["Lift to %s"] = "前往 %s 的升降梯"
@@ -2794,7 +2801,7 @@ L["Line thickness"] = "線條粗細"
 L["How thick the solid line is on the world map; the minimap's follows its size. Right-click to reset."] = "實線在世界地圖上的粗細；小地圖上的則依其大小設定。右鍵點擊重置。"
 L["Route colour"] = "路線顏色"
 L["How strongly the route shows on the minimap, line, dots or sparkles; the world map keeps its own. Right-click to reset."] = "路線在小地圖上的顯示強度，線條、圓點或閃光皆適用；世界地圖另有設定。右鍵點擊重置。"
-L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "小地圖上路線的線條、圓點或閃光，以及圓點間的間距；世界地圖另有設定。右鍵點擊重置。"
+-- L["The route's line, dots or sparkles on the minimap, each style its own size; the world map keeps its own. Right-click to reset."] = ""
 
 -- QoL/XPMark.lua
 L["Guide: %d"] = "指南：%d"
@@ -3224,3 +3231,4 @@ L["Sparkles"] = "閃光"
 -- L["Every leveling guide was gone over again, and 40-60 reworked for both factions with more quests and shorter grinds. Quests new in Forever carry a small ∞ mark. If the guide you had open doesn't match where you are, open the guide list and pick the guide under %s. Your quest log carries over."] = "所有練等指南都重新檢查過一遍，40-60 級更為雙方陣營重新製作，任務更多、練等時間更短。Forever 新增的任務會帶有一個小小的 ∞ 標記。若你開啟的指南與你所在位置不符，請開啟指南清單並選擇 %s 底下的指南。你的任務日誌會沿用。"
 -- L["Browse folders fold away, a closed tab comes back with Reopen, the route line can be a line, dots or sparkles on the map and minimap, and the minimap button and a floating Polestar button can be turned on in Options."] = "瀏覽資料夾可收合，關閉的分頁可用「重新開啟」找回，路線在地圖和小地圖上可顯示為線條、圓點或閃光，小地圖按鈕和浮動的 Polestar 按鈕都可在「選項」中開啟。"
 -- L["Leveling guides take you through this dungeon where they have steps for it. Off: they keep to the solo route."] = "升級指南若有此地城的步驟，就會帶你通過此地城。關閉：維持單人路線。"
+-- L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "小地圖上路線的線條、圓點或閃光，以及圓點間的間距；世界地圖另有設定。右鍵點擊重置。"

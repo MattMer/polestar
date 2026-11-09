@@ -1387,6 +1387,13 @@ L["The guide window hides in dungeons and battlegrounds. %s Change it in Options
 L["Closed %s"] = "已关闭%s"
 L["Reopen"] = "重新打开"
 L["Needs"] = "尚缺"
+-- L["You carry this quest; the update moved what is left of it before your place in the guide."] = ""
+-- L["Right-click to skip or abandon it."] = ""
+-- L["back in %s, %s"] = ""
+-- L["back in %s"] = ""
+-- L["Still to do: %s, %s"] = ""
+-- L["Still to do: %s"] = ""
+-- L["Still to do"] = ""
 
 -- UI/JourneyPanel.lua
 L["Lift to %s"] = "乘升降梯前往%s"
@@ -2794,7 +2801,7 @@ L["Line thickness"] = "线条粗细"
 L["How thick the solid line is on the world map; the minimap's follows its size. Right-click to reset."] = "地图上实线的粗细；微缩地图上的跟随其大小设置。右键点击重置。"
 L["Route colour"] = "路线颜色"
 L["How strongly the route shows on the minimap, line, dots or sparkles; the world map keeps its own. Right-click to reset."] = "路线（线条、圆点或闪光）在微缩地图上的显示强度；地图上的不受影响。右键点击重置。"
-L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "微缩地图上路线的线条、圆点或闪光，以及圆点间距；地图上的不受影响。右键点击重置。"
+-- L["The route's line, dots or sparkles on the minimap, each style its own size; the world map keeps its own. Right-click to reset."] = ""
 
 -- QoL/XPMark.lua
 L["Guide: %d"] = "指南：%d"
@@ -3233,3 +3240,4 @@ L["Sparkles"] = "闪光"
 -- L["Every leveling guide was gone over again, and 40-60 reworked for both factions with more quests and shorter grinds. Quests new in Forever carry a small ∞ mark. If the guide you had open doesn't match where you are, open the guide list and pick the guide under %s. Your quest log carries over."] = "所有升级指南都重新检查了一遍，双方阵营的 40-60 级已重做，任务更多、练级更短。无限新增的任务带有一个小小的 ∞ 标记。如果你打开的指南与所在位置不符，请打开指南列表，选择%s下的指南。你的任务日志会保留。"
 -- L["Browse folders fold away, a closed tab comes back with Reopen, the route line can be a line, dots or sparkles on the map and minimap, and the minimap button and a floating Polestar button can be turned on in Options."] = "浏览文件夹可折叠，关闭的标签页可用“重新打开”找回，路线在地图和微缩地图上可显示为线条、圆点或闪光，微缩地图按钮和浮动的 Polestar 按钮都可在选项中开启。"
 -- L["Leveling guides take you through this dungeon where they have steps for it. Off: they keep to the solo route."] = "升级指南在包含此地下城步骤时会带你完成该地下城。关闭：指南将保持单人路线。"
+-- L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "微缩地图上路线的线条、圆点或闪光，以及圆点间距；地图上的不受影响。右键点击重置。"

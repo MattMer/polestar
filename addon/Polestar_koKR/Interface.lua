@@ -1387,6 +1387,13 @@ L["The guide window hides in dungeons and battlegrounds. %s Change it in Options
 L["Closed %s"] = "%s 닫음"
 L["Reopen"] = "다시 열기"
 L["Needs"] = "부족"
+-- L["You carry this quest; the update moved what is left of it before your place in the guide."] = ""
+-- L["Right-click to skip or abandon it."] = ""
+-- L["back in %s, %s"] = ""
+-- L["back in %s"] = ""
+-- L["Still to do: %s, %s"] = ""
+-- L["Still to do: %s"] = ""
+-- L["Still to do"] = ""
 
 -- UI/JourneyPanel.lua
 L["Lift to %s"] = "%s행 승강기"
@@ -2794,7 +2801,7 @@ L["Line thickness"] = "선 굵기"
 L["How thick the solid line is on the world map; the minimap's follows its size. Right-click to reset."] = "지도에서 실선의 굵기입니다. 미니맵의 선은 미니맵 크기를 따릅니다. 오른쪽 클릭하면 초기화."
 L["Route colour"] = "경로 색"
 L["How strongly the route shows on the minimap, line, dots or sparkles; the world map keeps its own. Right-click to reset."] = "미니맵에서 경로(선, 점 또는 반짝임)가 얼마나 진하게 보이는지. 지도는 따로 설정합니다. 오른쪽 클릭하면 초기화."
-L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "미니맵의 경로 선, 점 또는 반짝임과 점 사이 간격. 지도는 따로 설정합니다. 오른쪽 클릭하면 초기화."
+-- L["The route's line, dots or sparkles on the minimap, each style its own size; the world map keeps its own. Right-click to reset."] = ""
 
 -- QoL/XPMark.lua
 L["Guide: %d"] = "가이드: %d"
@@ -3224,3 +3231,4 @@ L["Sparkles"] = "반짝임"
 -- L["Every leveling guide was gone over again, and 40-60 reworked for both factions with more quests and shorter grinds. Quests new in Forever carry a small ∞ mark. If the guide you had open doesn't match where you are, open the guide list and pick the guide under %s. Your quest log carries over."] = "모든 레벨업 가이드를 다시 점검했고, 40-60은 양 진영 모두 퀘스트를 늘리고 사냥을 줄여 새로 짰습니다. Forever에서 새로 추가된 퀘스트에는 작은 ∞ 표시가 붙습니다. 열어 둔 가이드가 지금 위치와 맞지 않으면 가이드 목록을 열고 %s 아래의 가이드를 고르십시오. 퀘스트 목록은 그대로 이어집니다."
 -- L["Browse folders fold away, a closed tab comes back with Reopen, the route line can be a line, dots or sparkles on the map and minimap, and the minimap button and a floating Polestar button can be turned on in Options."] = "탐색 폴더를 접을 수 있고, 닫은 탭은 다시 열기로 되살릴 수 있으며, 경로는 지도와 미니맵에 선, 점 또는 반짝임으로 표시할 수 있고, 미니맵 버튼과 떠 있는 Polestar 버튼을 설정에서 켤 수 있습니다."
 -- L["Leveling guides take you through this dungeon where they have steps for it. Off: they keep to the solo route."] = "레벨업 가이드에 이 던전 단계가 있으면 이 던전을 거쳐 안내합니다. 끄면: 솔로 경로만 따릅니다."
+-- L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "미니맵의 경로 선, 점 또는 반짝임과 점 사이 간격. 지도는 따로 설정합니다. 오른쪽 클릭하면 초기화."

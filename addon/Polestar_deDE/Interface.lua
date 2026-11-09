@@ -557,6 +557,13 @@ L["The guide window hides in dungeons and battlegrounds. %s Change it in Options
 L["Closed %s"] = "%s geschlossen"
 L["Reopen"] = "Wieder öffnen"
 L["Needs"] = "Fehlt"
+-- L["You carry this quest; the update moved what is left of it before your place in the guide."] = ""
+-- L["Right-click to skip or abandon it."] = ""
+-- L["back in %s, %s"] = ""
+-- L["back in %s"] = ""
+-- L["Still to do: %s, %s"] = ""
+-- L["Still to do: %s"] = ""
+-- L["Still to do"] = ""
 
 -- UI/Lookup.lua
 L["Both factions"] = "Beide Fraktionen"
@@ -2750,7 +2757,7 @@ L["Line thickness"] = "Linienstärke"
 L["How thick the solid line is on the world map; the minimap's follows its size. Right-click to reset."] = "Wie dick die durchgehende Linie auf der Weltkarte ist; die der Minikarte folgt ihrer Größe. Rechtsklick zum Zurücksetzen."
 L["Route colour"] = "Routenfarbe"
 L["How strongly the route shows on the minimap, line, dots or sparkles; the world map keeps its own. Right-click to reset."] = "Wie stark die Route auf der Minikarte erscheint, als Linie, Punkte oder Funken; die Weltkarte behält ihre eigene. Rechtsklick zum Zurücksetzen."
-L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "Die Linie, Punkte oder Funken der Route auf der Minikarte und die Abstände zwischen den Punkten; die Weltkarte behält ihre eigenen. Rechtsklick zum Zurücksetzen."
+-- L["The route's line, dots or sparkles on the minimap, each style its own size; the world map keeps its own. Right-click to reset."] = ""
 
 -- QoL/XPMark.lua
 L["Guide: %d"] = "Guide: %d"
@@ -3281,3 +3288,4 @@ L["Level %d: you can take %s now. Its giver is marked on your map; pick up the q
 -- L["Every leveling guide was gone over again, and 40-60 reworked for both factions with more quests and shorter grinds. Quests new in Forever carry a small ∞ mark. If the guide you had open doesn't match where you are, open the guide list and pick the guide under %s. Your quest log carries over."] = "Jeder Level-Guide wurde noch einmal durchgesehen, und 40-60 wurde für beide Fraktionen überarbeitet, mit mehr Quests und kürzerem Grinden. Quests, die in Forever neu sind, tragen ein kleines ∞-Zeichen. Passt der Guide, den du offen hattest, nicht mehr zu deinem Standort, öffne die Guide-Liste und wähle den Guide unter %s. Dein Questlog bleibt erhalten."
 -- L["Browse folders fold away, a closed tab comes back with Reopen, the route line can be a line, dots or sparkles on the map and minimap, and the minimap button and a floating Polestar button can be turned on in Options."] = "Ordner beim Durchsuchen lassen sich einklappen, ein geschlossener Tab kommt mit „Wieder öffnen“ zurück, die Route kann auf Karte und Minikarte als Linie, Punkte oder Funken erscheinen, und der Minikarten-Button und ein schwebender Polestar-Button lassen sich in den Optionen einschalten."
 -- L["Leveling guides take you through this dungeon where they have steps for it. Off: they keep to the solo route."] = "Leveling-Guides führen dich durch diesen Dungeon, wo sie Schritte dafür haben. Aus: Sie bleiben auf der Solo-Route."
+-- L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "Die Linie, Punkte oder Funken der Route auf der Minikarte und die Abstände zwischen den Punkten; die Weltkarte behält ihre eigenen. Rechtsklick zum Zurücksetzen."

@@ -1387,6 +1387,13 @@ L["The guide window hides in dungeons and battlegrounds. %s Change it in Options
 L["Closed %s"] = "Закрыто: %s"
 L["Reopen"] = "Вернуть"
 L["Needs"] = "Не хватает"
+-- L["You carry this quest; the update moved what is left of it before your place in the guide."] = ""
+-- L["Right-click to skip or abandon it."] = ""
+-- L["back in %s, %s"] = ""
+-- L["back in %s"] = ""
+-- L["Still to do: %s, %s"] = ""
+-- L["Still to do: %s"] = ""
+-- L["Still to do"] = ""
 
 -- UI/JourneyPanel.lua
 L["Lift to %s"] = "Подъемник до %s"
@@ -2794,7 +2801,7 @@ L["Line thickness"] = "Толщина линии"
 L["How thick the solid line is on the world map; the minimap's follows its size. Right-click to reset."] = "Толщина сплошной линии на карте мира; на миникарте она следует размеру. ПКМ — сброс."
 L["Route colour"] = "Цвет маршрута"
 L["How strongly the route shows on the minimap, line, dots or sparkles; the world map keeps its own. Right-click to reset."] = "Насколько заметен маршрут на миникарте — линия, точки или искры; у карты мира своя настройка. ПКМ — сброс."
-L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "Линия, точки или искры маршрута на миникарте и промежутки между точками; у карты мира своя настройка. ПКМ — сброс."
+-- L["The route's line, dots or sparkles on the minimap, each style its own size; the world map keeps its own. Right-click to reset."] = ""
 
 -- QoL/XPMark.lua
 L["Guide: %d"] = "Гайд: %d"
@@ -3233,3 +3240,4 @@ L["Sparkles"] = "Искры"
 -- L["Every leveling guide was gone over again, and 40-60 reworked for both factions with more quests and shorter grinds. Quests new in Forever carry a small ∞ mark. If the guide you had open doesn't match where you are, open the guide list and pick the guide under %s. Your quest log carries over."] = "Все гайды по прокачке заново проверены, а 40-60 переработаны для обеих фракций: больше заданий и короче гринд. Задания, новые в Forever, отмечены маленьким значком ∞. Если открытый гайд не соответствует вашему местоположению, откройте список гайдов и выберите гайд в разделе %s. Ваш журнал заданий сохраняется."
 -- L["Browse folders fold away, a closed tab comes back with Reopen, the route line can be a line, dots or sparkles on the map and minimap, and the minimap button and a floating Polestar button can be turned on in Options."] = "Папки в обзоре сворачиваются, закрытая вкладка возвращается кнопкой «Вернуть», маршрут на карте и миникарте может быть линией, точками или искрами, а в настройках можно включить кнопку у миникарты и плавающую кнопку Polestar."
 -- L["Leveling guides take you through this dungeon where they have steps for it. Off: they keep to the solo route."] = "Гайды по прокачке проводят вас через это подземелье, если в них есть шаги для него. Если выключено, они придерживаются одиночного маршрута."
+-- L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "Линия, точки или искры маршрута на миникарте и промежутки между точками; у карты мира своя настройка. ПКМ — сброс."

@@ -1388,6 +1388,13 @@ L["The guide window hides in dungeons and battlegrounds. %s Change it in Options
 L["Closed %s"] = "Fechado: %s"
 L["Reopen"] = "Reabrir"
 L["Needs"] = "Falta"
+-- L["You carry this quest; the update moved what is left of it before your place in the guide."] = ""
+-- L["Right-click to skip or abandon it."] = ""
+-- L["back in %s, %s"] = ""
+-- L["back in %s"] = ""
+-- L["Still to do: %s, %s"] = ""
+-- L["Still to do: %s"] = ""
+-- L["Still to do"] = ""
 
 -- UI/JourneyPanel.lua
 L["Lift to %s"] = "Elevador para %s"
@@ -2794,7 +2801,7 @@ L["Line thickness"] = "Espessura da linha"
 L["How thick the solid line is on the world map; the minimap's follows its size. Right-click to reset."] = "A espessura da linha contínua no mapa-múndi; a do minimapa acompanha o tamanho dele. Botão direito para redefinir."
 L["Route colour"] = "Cor da rota"
 L["How strongly the route shows on the minimap, line, dots or sparkles; the world map keeps its own. Right-click to reset."] = "Quão forte a rota aparece no minimapa, em linha, pontos ou brilhos; o mapa-múndi mantém a sua. Botão direito para redefinir."
-L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "A linha, os pontos ou os brilhos da rota no minimapa, e os espaços entre os pontos; o mapa-múndi mantém o seu. Botão direito para redefinir."
+-- L["The route's line, dots or sparkles on the minimap, each style its own size; the world map keeps its own. Right-click to reset."] = ""
 
 -- QoL/XPMark.lua
 L["Guide: %d"] = "Guia: %d"
@@ -3234,3 +3241,4 @@ L["Sparkles"] = "Brilhos"
 -- L["Every leveling guide was gone over again, and 40-60 reworked for both factions with more quests and shorter grinds. Quests new in Forever carry a small ∞ mark. If the guide you had open doesn't match where you are, open the guide list and pick the guide under %s. Your quest log carries over."] = "Todos os guias de evolução foram revistos, e os de 40-60 foram refeitos para as duas facções, com mais missões e menos tempo matando monstros. Missões novas no Forever trazem uma pequena marca ∞. Se o guia que você tinha aberto não combina com onde você está, abra a lista de guias e escolha o guia em %s. Seu registro de missões é mantido."
 -- L["Browse folders fold away, a closed tab comes back with Reopen, the route line can be a line, dots or sparkles on the map and minimap, and the minimap button and a floating Polestar button can be turned on in Options."] = "As pastas de navegação se recolhem, uma aba fechada volta com Reabrir, a rota pode ser uma linha, pontos ou brilhos no mapa e no minimapa, e o botão do minimapa e um botão flutuante do Polestar podem ser ativados nas Opções."
 -- L["Leveling guides take you through this dungeon where they have steps for it. Off: they keep to the solo route."] = "Os guias de evolução levam você por esta masmorra onde têm etapas para ela. Desativado: eles seguem a rota solo."
+-- L["The route's line, dots or sparkles on the minimap, and the gaps between the dots; the world map keeps its own. Right-click to reset."] = "A linha, os pontos ou os brilhos da rota no minimapa, e os espaços entre os pontos; o mapa-múndi mantém o seu. Botão direito para redefinir."

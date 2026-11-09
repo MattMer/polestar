@@ -2590,7 +2590,6 @@ L["Kill %d %s"] = "Töte %d %s"
 L["Collect %s"] = "Sammle %s"
 L["Collect %d %s"] = "Sammle %d %s"
 L["Use %s"] = "Benutze %s"
-L["Leveling guides take you through this dungeon where they have steps for it. Off: they keep to the solo route."] = "Leveling-Guides führen dich durch diesen Dungeon, wo sie Schritte dafür haben. Aus: Sie bleiben auf der Solo-Route."
 L["Dungeons in leveling guides"] = "Dungeons in Leveling-Guides"
 L["Off: the guide skips this group quest and keeps to the solo route. Until you choose, it asks when it gets there."] = "Aus: Der Guide überspringt diese Gruppenquest und bleibt auf der Solo-Route. Bis du dich entscheidest, fragt er nach, wenn er dort ankommt."
 L["Group quests"] = "Gruppenquests"
@@ -2601,6 +2600,7 @@ L["Entrance in Horde territory (outside the Undercity)"] = "Eingang im Horde-Geb
 L["Entrance in Alliance territory (in Ironforge)"] = "Eingang im Allianz-Gebiet (in Eisenschmiede)"
 L["Entrance in Horde territory (in Orgrimmar)"] = "Eingang im Horde-Gebiet (in Orgrimmar)"
 L["Entrance in Alliance territory (in Stormwind)"] = "Eingang im Allianz-Gebiet (in Sturmwind)"
+-- L["Leveling guides take you through this dungeon where they have steps for it. Off: they keep to the solo route. More dungeons join this list as they are added to the guides' route."] = ""
 
 -- Dungeons/Attune.lua
 L["Lets Lothos Riftwaker in Blackrock Mountain send you to the Molten Core; without it, walk in through Blackrock Depths."] = "Lässt dich Lothos Riftwaker im Blackrock zum Geschmolzenen Kern schicken; ohne ihn läufst du durch die Blackrocktiefen hinein."
@@ -3264,3 +3264,4 @@ L["Level %d: you can take %s now. Its giver is marked on your map; pick up the q
 -- L["How the route lines are drawn: Polestar's dots, or sparkles that drift along the way to the goal."] = "Wie die Routenlinien gezeichnet werden: als Punkte von Polestar oder als Funken, die auf dem Weg zum Ziel treiben."
 -- L["The first walk of %s"] = "Der erste Weg in %s"
 -- L["Browse folders fold away, a closed tab comes back with Reopen, the route line can be a line, dots or sparkles on the map and minimap, and a floating Polestar button can be turned on in Options."] = "Die Ordner der Guide-Liste lassen sich zuklappen, ein geschlossener Tab kommt mit „Wieder öffnen“ zurück, die Routenlinie kann auf Karte und Minikarte eine Linie, Punkte oder Funken sein, und ein schwebender Polestar-Button lässt sich in den Optionen einschalten."
+-- L["Leveling guides take you through this dungeon where they have steps for it. Off: they keep to the solo route."] = "Leveling-Guides führen dich durch diesen Dungeon, wo sie Schritte dafür haben. Aus: Sie bleiben auf der Solo-Route."

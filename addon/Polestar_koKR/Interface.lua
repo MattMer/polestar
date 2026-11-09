@@ -2138,6 +2138,12 @@ L["Mark quests new in Forever"] = "Forever 신규 퀘스트 표시"
 L["A small infinity mark beside the name of a quest Forever added, in the guide, While you're here, the Codex and quest tooltips."] = "Forever가 추가한 퀘스트의 이름 옆에 작은 무한대 표시를 붙입니다. 가이드, 이곳에 온 김에, Codex, 퀘스트 툴팁에 표시됩니다."
 L["The way to the goal on the world map and the minimap: a line or dots where you walk, lines where you fly, sail or ride, the legs after this one fainter. Drawn as Shortest Path Forever by Cillian Berragan draws them."] = "지도와 미니맵에 목표까지의 길: 걷는 곳은 선 또는 점, 비행·항해·탑승은 선, 이후 구간은 흐리게. Cillian Berragan의 Shortest Path Forever 방식으로 그립니다."
 L["How the route lines are drawn: one solid line, Polestar's dots, or sparkles that drift along the way to the goal (dots while Reduce motion is on)."] = "경로선을 그리는 방식: 하나의 실선, Polestar 점, 또는 목표를 향해 흘러가는 반짝임 (움직임 줄이기가 켜져 있으면 점)."
+-- L["Backing"] = ""
+-- L["With Transparent, a shade with no edge behind the text, so it reads over bright ground. Off: the outlined text alone on the world."] = ""
+-- L["Soft"] = ""
+-- L["Dark"] = ""
+-- L["Keep the bar shown"] = ""
+-- L["With Transparent, the tabs and the step bar stay on screen instead of only under the cursor."] = ""
 
 -- Rares/Rares.lua
 L["Raid warning"] = "공격대 경보"

@@ -2138,6 +2138,12 @@ L["Mark quests new in Forever"] = "标记 Forever 新增任务"
 L["A small infinity mark beside the name of a quest Forever added, in the guide, While you're here, the Codex and quest tooltips."] = "在指南、顺便完成、Codex 和任务鼠标提示中，于 Forever 新增任务的名称旁显示一个小的无穷符号。"
 L["The way to the goal on the world map and the minimap: a line or dots where you walk, lines where you fly, sail or ride, the legs after this one fainter. Drawn as Shortest Path Forever by Cillian Berragan draws them."] = "在地图和微缩地图上显示通往目标的路线：步行段为线条或圆点，飞行、航行或乘坐段为线，之后的路段颜色较淡。绘制方式沿用 Cillian Berragan 的 Shortest Path Forever。"
 L["How the route lines are drawn: one solid line, Polestar's dots, or sparkles that drift along the way to the goal (dots while Reduce motion is on)."] = "路线的绘制方式：一条实线、Polestar 的圆点，或沿途飘向目标的闪光（开启“减少动效”时为圆点）。"
+-- L["Backing"] = ""
+-- L["With Transparent, a shade with no edge behind the text, so it reads over bright ground. Off: the outlined text alone on the world."] = ""
+-- L["Soft"] = ""
+-- L["Dark"] = ""
+-- L["Keep the bar shown"] = ""
+-- L["With Transparent, the tabs and the step bar stay on screen instead of only under the cursor."] = ""
 
 -- Rares/Rares.lua
 L["Raid warning"] = "团队通知"

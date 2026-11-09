@@ -1251,6 +1251,12 @@ L["Mark quests new in Forever"] = "In Forever neue Quests markieren"
 L["A small infinity mark beside the name of a quest Forever added, in the guide, While you're here, the Codex and quest tooltips."] = "Ein kleines Unendlichkeitszeichen neben dem Namen einer Quest, die Forever hinzugefügt hat, im Guide, bei „Wenn du schon hier bist“, im Codex und in Quest-Tooltips."
 L["The way to the goal on the world map and the minimap: a line or dots where you walk, lines where you fly, sail or ride, the legs after this one fainter. Drawn as Shortest Path Forever by Cillian Berragan draws them."] = "Der Weg zum Ziel auf der Weltkarte und der Minikarte: eine Linie oder Punkte, wo du läufst, Linien, wo du fliegst, segelst oder reitest, die Etappen nach dieser blasser. Gezeichnet, wie Shortest Path Forever von Cillian Berragan sie zeichnet."
 L["How the route lines are drawn: one solid line, Polestar's dots, or sparkles that drift along the way to the goal (dots while Reduce motion is on)."] = "Wie die Routenlinien gezeichnet werden: als durchgehende Linie, als Punkte von Polestar oder als Funken, die auf dem Weg zum Ziel treiben (Punkte, solange Bewegung reduzieren an ist)."
+-- L["Backing"] = ""
+-- L["With Transparent, a shade with no edge behind the text, so it reads over bright ground. Off: the outlined text alone on the world."] = ""
+-- L["Soft"] = ""
+-- L["Dark"] = ""
+-- L["Keep the bar shown"] = ""
+-- L["With Transparent, the tabs and the step bar stay on screen instead of only under the cursor."] = ""
 
 -- UI/Dungeons.lua
 L["Ready to turn in"] = "Bereit zur Abgabe"

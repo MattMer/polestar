@@ -2139,6 +2139,12 @@ L["Mark quests new in Forever"] = "Marquer les quêtes nouvelles dans Forever"
 L["A small infinity mark beside the name of a quest Forever added, in the guide, While you're here, the Codex and quest tooltips."] = "Un petit symbole infini à côté du nom d'une quête ajoutée par Forever, dans le guide, « Tant que vous êtes là », le Codex et les infobulles de quête."
 L["The way to the goal on the world map and the minimap: a line or dots where you walk, lines where you fly, sail or ride, the legs after this one fainter. Drawn as Shortest Path Forever by Cillian Berragan draws them."] = "Le chemin vers l'objectif sur la carte du monde et la minicarte : une ligne ou des points là où vous marchez, des lignes là où vous volez, naviguez ou voyagez, les tronçons suivants plus pâles. Dessiné comme le fait Shortest Path Forever par Cillian Berragan."
 L["How the route lines are drawn: one solid line, Polestar's dots, or sparkles that drift along the way to the goal (dots while Reduce motion is on)."] = "Comment les lignes d'itinéraire sont tracées : une ligne continue, les points de Polestar, ou des étincelles qui dérivent le long du chemin vers l'objectif (des points quand Réduire les animations est activé)."
+-- L["Backing"] = ""
+-- L["With Transparent, a shade with no edge behind the text, so it reads over bright ground. Off: the outlined text alone on the world."] = ""
+-- L["Soft"] = ""
+-- L["Dark"] = ""
+-- L["Keep the bar shown"] = ""
+-- L["With Transparent, the tabs and the step bar stay on screen instead of only under the cursor."] = ""
 
 -- Rares/Rares.lua
 L["Raid warning"] = "Avertissement de raid"

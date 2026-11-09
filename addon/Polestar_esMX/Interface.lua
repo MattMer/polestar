@@ -1803,6 +1803,12 @@ L["Mark quests new in Forever"] = "Marcar misiones nuevas de Forever"
 L["A small infinity mark beside the name of a quest Forever added, in the guide, While you're here, the Codex and quest tooltips."] = "Una pequeña marca de infinito junto al nombre de una misión que añadió Forever, en la guía, en Mientras estás aquí, en el Codex y en las descripciones emergentes de misiones."
 L["The way to the goal on the world map and the minimap: a line or dots where you walk, lines where you fly, sail or ride, the legs after this one fainter. Drawn as Shortest Path Forever by Cillian Berragan draws them."] = "El camino al objetivo en el mapa del mundo y el minimapa: una línea o puntos donde caminas, líneas donde vuelas, navegas o viajas, y los tramos siguientes más tenues. Dibujado como lo dibuja Shortest Path Forever de Cillian Berragan."
 L["How the route lines are drawn: one solid line, Polestar's dots, or sparkles that drift along the way to the goal (dots while Reduce motion is on)."] = "Cómo se dibujan las líneas de ruta: con una línea continua, con los puntos de Polestar o con destellos que se desplazan por el camino hacia el objetivo (puntos mientras Reducir movimiento está activado)."
+-- L["Backing"] = ""
+-- L["With Transparent, a shade with no edge behind the text, so it reads over bright ground. Off: the outlined text alone on the world."] = ""
+-- L["Soft"] = ""
+-- L["Dark"] = ""
+-- L["Keep the bar shown"] = ""
+-- L["With Transparent, the tabs and the step bar stay on screen instead of only under the cursor."] = ""
 
 -- UI/Packs.lua
 L["turned off in the AddOns list"] = "desactivado en la lista de AddOns"
